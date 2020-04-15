@@ -475,4 +475,4 @@ T2T](https://research.googleblog.com/2017/06/accelerating-deep-learning-research
 * [Model-Based Reinforcement Learning for Atari](https://arxiv.org/abs/1903.00374)
 * [VideoFlow: A Flow-Based Generative Model for Video](https://arxiv.org/abs/1903.01434)
 
-*NOTE: This is not an official Google product.*
+NOTE: This is not an official Google product.*
